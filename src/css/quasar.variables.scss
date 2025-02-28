@@ -12,7 +12,11 @@
 // to match your app's branding.
 // Tip: Use the "Theme Builder" on Quasar's documentation website.
 
-$primary   : #1976D2;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+$typography-font-family : "Open Sans", serif !default;
+
+$primary   : #FFF4A3;
 $secondary : #26A69A;
 $accent    : #9C27B0;
 

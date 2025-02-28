@@ -2,8 +2,8 @@
   "name": "portfolio",
   "version": "0.0.1",
   "description": "Portfolio Fer",
-  "productName": "Portfolio App",
-  "author": "Fernando Ramirez <fr185070@ncratleos.com>",
+  "productName": "Fernandorg",
+  "author": "Fernando Ramirez <fernandoram901@gmail.com>",
   "private": true,
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",
@@ -15,6 +15,7 @@
     "axios": "^1.2.1",
     "pinia": "^2.0.11",
     "quasar": "^2.16.0",
+    "resend": "^4.1.2",
     "vue": "^3.4.18",
     "vue-router": "^4.0.12"
   },
