@@ -91,7 +91,7 @@ export default {
 }
 @keyframes rotate{
   0%{
-    ransform: rotate(-20deg);
+    transform: rotate(-20deg);
     opacity: 1;
   }
   95%{
