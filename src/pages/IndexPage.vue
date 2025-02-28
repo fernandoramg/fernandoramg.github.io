@@ -51,7 +51,7 @@
               height:62%; margin-left: -1%; margin-top: -0.5%; border-style: dotted;
               "/> -->
 
-              <q-img class="col" src="../assets/FernandoG.png" style="height: 102%; mask-image: linear-gradient(black 60%, transparent); margin-left: -10px"/>
+              <q-img class="col" src="../../public/FernandoG.png" style="height: 102%; mask-image: linear-gradient(black 60%, transparent); margin-left: -10px"/>
             </div>
             <!-- <div style="margin-top: -12vw;">
               <div class="linea"/>
@@ -69,7 +69,7 @@
           height:62%; margin-left: -1%; margin-top: -0.5%; border-style: dotted;
           "/> -->
 
-          <q-img class="col" src="../assets/FernandoG.png" style="height: 102%; mask-image: linear-gradient(black 60%, transparent);"/>
+          <q-img class="col" src="../../public/FernandoG.png" style="height: 102%; mask-image: linear-gradient(black 60%, transparent);"/>
 
           </div>
           <!-- <div class="linea"/> -->

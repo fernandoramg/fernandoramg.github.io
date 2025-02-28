@@ -37,7 +37,7 @@
 
       <div class="row justify-center">
           <div class="circle-neon">
-          <q-img class="col" src="../assets/FernandoG.png" style="height: 105%; mask-image: linear-gradient(black 60%, transparent);"/>
+          <q-img class="col" src="../../public/FernandoG.png" style="height: 105%; mask-image: linear-gradient(black 60%, transparent);"/>
           </div>
         </div>
 

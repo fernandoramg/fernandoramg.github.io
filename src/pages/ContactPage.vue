@@ -41,7 +41,9 @@ import { Resend } from 'resend';
 export default {
   setup () {
     const $q = useQuasar();
-    const resend = new Resend('re_LRyoHEHd_9Kr6rDrDU3jNTdd61SRMWCcL');
+    // const resend = new Resend('re_LRyoHEHd_9Kr6rDrDU3jNTdd61SRMWCcL');
+    const resend = new Resend('re_JiDhxDTd_C38zLpPwpBp6cBtMugE9CRyT');
+
     const myForm = ref(null);
 
     
