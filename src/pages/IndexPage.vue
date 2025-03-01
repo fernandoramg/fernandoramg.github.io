@@ -18,7 +18,7 @@
         <div class="col-6" style="align-content: center;" >
           <!-- <q-img src="../assets/background1.gif" loading="lazy"> -->
           <div style="font-size: 35px; color: #BFA181;">
-            Hola, soy Fernando Ramirez Gonzalez
+            Hola, soy Fernando Ramirez Gonzalez 1
           </div>
           <!-- <p class="animation-write" style="color: white;">
             Soy desarrollador FrontEnd
